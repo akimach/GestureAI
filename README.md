@@ -15,7 +15,7 @@ Trained Neural Network deployed on iOS 11 app using CoreML :
 You can use direct links to download the dataset.
 
 |Name|Examples|Size|Link|MD5 Checksum|
-|:-:|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|
 |`gesture-3axis-accel.tar.gz`|1,000|338 KBytes|[Download]()|`37664771fd60e930033fb24387fb1601 `|
 
 ## Labels

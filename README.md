@@ -6,7 +6,7 @@
 
 ## Demo
 
-Trained Neural Network deployed on iOS 11 app using CoreML :
+Trained Neural Network deployed on [GestureAI-iOS, iOS 11 app using CoreML](https://github.com/akimach/GestureAI-iOS) :
 
 ![demo](images/demo.gif)
 

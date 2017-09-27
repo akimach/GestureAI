@@ -16,7 +16,7 @@ You can use direct links to download the dataset.
 
 |Name|Examples|Size|Link|MD5 Checksum|
 |:-:|:-:|:-:|:-:|:-:|
-|`gesture-3axis-accel.tar.gz`|1,000|338 KBytes|[Download]()|`37664771fd60e930033fb24387fb1601 `|
+|`gesture-3axis-accel.tar.gz`|1,000|338 KBytes|[Download](https://github.com/akimach/GestureAI/blob/master/datasets/gesture-3axis-accel.tar.gz?raw=true)|`37664771fd60e930033fb24387fb1601 `|
 
 ## Labels
 

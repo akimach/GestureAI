@@ -43,6 +43,8 @@ The dataset consists of 1,000 3-axis acceleration sequences of 5 gesture classes
 ## Install
 
 ```
+$ virtualenv venv
+$ source venv/bin/activate
 $ git clone https://github.com/akimach/GestureAI.git
 $ cd GestureAI
 $ pip install -r requirements.txt
